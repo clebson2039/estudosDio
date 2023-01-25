@@ -16,3 +16,5 @@ function returnEvenValues(arr){
 
 let arr = [1, 2, 4, 5, 6, 7, 8];
 returnEvenValues(arr);
+
+/*Arquivos css, javascript, imagens e outros ficam em assets*/
