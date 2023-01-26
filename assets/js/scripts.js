@@ -1,3 +1,4 @@
+/*
 //Retorna os números que são pares
 function returnEvenValues(arr){
     let evenNums = [];
@@ -16,5 +17,14 @@ function returnEvenValues(arr){
 
 let arr = [1, 2, 4, 5, 6, 7, 8];
 returnEvenValues(arr);
+*/
+/*___________________________________________________________________ */
 
-/*Arquivos css, javascript, imagens e outros ficam em assets*/
+/*Arquivos css, javascript, imagens e outros ficam em assets.
+
+DOM = Document object model
+comandos Dom: document.getElementsByTagName('h1'); Mostra uma lista de colections*/
+
+console.log('Hello World');
+
+
